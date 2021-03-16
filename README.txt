@@ -1,4 +1,3 @@
-# kaplanmeier-ai
 An AI algorithm to generate data points from images of Kaplan Meier charts.
 This algorithm works in multiple passes, cleaning up the image, and tries to generate data points.
 Uses image processing, openCV, and multiple in-house algorithms.
