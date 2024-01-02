@@ -14,7 +14,10 @@ Developed and tested on Python 3.7.4 (64-bit) on Windows 10
 
 Dependencies: cv2, numpy, matplotlib
 
-To run, 'python trial0.py'.
+To run
+```bash
+python trial0.py
+```
 
 
 Various subfolders will save images as checkpoints
