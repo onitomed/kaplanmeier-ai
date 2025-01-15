@@ -27,6 +27,6 @@ Run this program in a folder that contains imageset0 of archive, since OpenCV do
 1. Time ranges were hardcoded. Text extraction needs to be done on an Kaplan-Meier chart image to obtain scale for x-axis. This must be implemented before cropping the image.
 2. Needs more polishing to become an embeddable library/microservice/API.
 
-## Bots 4 U Consultancy
+## ONITO
 
-If you'd like a human coder to implement and maintain this project within your organization's codebase, we have yearly contracts. Contact us at manonthemoon13131@gmail.com.
+This is a project under [ONITO](https://onitomed.github.io). ONITO is a company for healthcare data infrastructure. Contact us at onitomed@gmail.com.
